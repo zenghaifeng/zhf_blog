@@ -19,7 +19,7 @@ dnspython==1.12.0
 enum34==1.1.2
 Fabric==1.14.0
 html5lib==0.999
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.6
 ipaddress==1.0.16
 jieba==0.39
