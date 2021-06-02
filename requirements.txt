@@ -29,7 +29,7 @@ lazr.restfulclient==0.13.4
 lazr.uri==1.0.3
 lxml==3.5.0
 Markdown==2.6.11
-markdown2==2.3.5
+markdown2==2.4.0
 meld3==1.0.2
 oauth==1.0.1
 oauthlib==1.0.3
